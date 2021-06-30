@@ -1,1 +1,10 @@
-{}
+{
+  "current": {
+    "sale_badge_color_scheme": "accent-1",
+    "sold_out_badge_color_scheme": "background-1",
+    "accent_icons": "accent-1",
+    "content_for_index": [
+
+    ]
+  }
+}
