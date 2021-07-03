@@ -69,6 +69,15 @@
             "link_label": "Pop-up link text",
             "page": "contact"
           }
+        },
+        "6c724fec-bf2d-4e42-ba1f-3afe210fcb6f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Collapsible tab 2",
+            "content": "<p>Tab content 2<\/p>",
+            "page": "",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
@@ -82,7 +91,8 @@
         "description",
         "share",
         "f9937b67-d898-4448-8459-ff2a68cec612",
-        "dd90d266-3710-44f2-9eae-8e3a8582bb23"
+        "dd90d266-3710-44f2-9eae-8e3a8582bb23",
+        "6c724fec-bf2d-4e42-ba1f-3afe210fcb6f"
       ],
       "settings": {
         "enable_sticky_info": true,
